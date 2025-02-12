@@ -1,8 +1,8 @@
 {
-    "buildCommand": "hugo --gc --minify",
+    "buildCommand": "amazon-linux-extras enable golang1.19 && yum install -y golang && hugo --gc --minify",
     "outputDirectory": "public",
     "installCommand": "hugo mod tidy",
     "framework": "hugo",
     "devCommand": "hugo server -D",
     "rootDirectory": ""
-}  
+}
