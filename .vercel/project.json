@@ -1,0 +1,8 @@
+{
+    "buildCommand": "hugo --gc --minify",
+    "outputDirectory": "public",
+    "installCommand": "hugo mod tidy",
+    "framework": "hugo",
+    "devCommand": "hugo server -D",
+    "rootDirectory": ""
+}  
