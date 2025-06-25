@@ -1,6 +1,7 @@
 ---
 title: My first rice
 description: The journey of my first rice (that too on windows!?)
+date: 2024-12-29 00:00:00+0000
 slug: my-first-rice
 image: homepage.png
 tags:

@@ -12,6 +12,7 @@ menu:
             icon: link
 
 comments: false
+rss: false
 ---
 
 To use this feature, add `links` section to frontmatter.
