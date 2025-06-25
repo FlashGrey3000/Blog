@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rice on Flashgrey</title><link>https://blog.flashgrey.xyz/tags/rice/</link><description>Recent content in Rice on Flashgrey</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.flashgrey.xyz/tags/rice/index.xml" rel="self" type="application/rss+xml"/><item><title>My first rice</title><link>https://blog.flashgrey.xyz/p/my-first-rice/</link><pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate><guid>https://blog.flashgrey.xyz/p/my-first-rice/</guid><description>&lt;img src="https://blog.flashgrey.xyz/p/my-first-rice/homepage.png" alt="Featured image of post My first rice" />&lt;h2 id="what-do-you-mean-by-a-rice">What do you mean by a rice?
+&lt;/h2>&lt;p>In case you don&amp;rsquo;t know. A rice refers to styling and personalizing your desktop. This term and practice is more common in the linux community, because of the open source nature. It is just much more inconvenient when it comes to windows. But &lt;em>you can&amp;rsquo;t really stop people, can you?&lt;/em>&lt;/p>
+&lt;p>Well you can consider changing your wallpaper as ricing too, but in reality you can go &lt;em>&lt;strong>deep.&lt;/strong>&lt;/em> &lt;em>really really, deep&lt;/em>. Its almost like an endless void. And this is my story about drowning in that void.&lt;/p>
+&lt;p>You can check out &lt;a class="link" href="https://reddit.com/r/unixporn" target="_blank" rel="noopener"
+>r/unixporn&lt;/a> &lt;em>This is where the rabbit hole begins.&lt;/em>&lt;/p>
+&lt;h2 id="how-it-started">How it started
+&lt;/h2>&lt;p>I used to scroll through r/unixporn quite a lot, and recently I had a chance to install and try out i3wm on one of my college&amp;rsquo;s lap pc &lt;em>(definitely not allowed)&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>i3wm: it is a tiling window manager for linux distros. Compared to the regular stacking window manager, it is highly focused on keyboard controls: reducing the mouse uses and increasing productivity.&lt;/p>&lt;/blockquote>
+&lt;p>The easy and direct access to different workspaces instantly without disturbing the my layout was a bliss! &lt;em>If you like to keep multiple windows open at the same time you will understand what I am trying to say.&lt;/em>&lt;/p>
+&lt;p>&lt;strong>I wanted it, really really wanted it.&lt;/strong>&lt;/p>
+&lt;h2 id="issues">Issues
+&lt;/h2>&lt;ul>
+&lt;li>I have windows as my os&lt;/li>
+&lt;li>I can&amp;rsquo;t dual boot (I play genshin- &lt;em>Not enough storage&lt;/em>)&lt;/li>
+&lt;li>I can&amp;rsquo;t switch to linux completely (I play genshin- &lt;em>EAC issues&lt;/em>)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>even if I do switch over to linux completely I can&amp;rsquo;t download the entire goddamn game again, I am limited by my data pack.&lt;/em>&lt;/p>
+&lt;p>Looks like all my issues are due to genshin? &lt;em>sigh&lt;/em>&lt;/p>
+&lt;p>Windows users rn:-&lt;br>
+&lt;img src="https://blog.flashgrey.xyz/p/my-first-rice/Look_What_They_Need_To_Mimic_A_Fraction_Of_Our_Power_Uno_Reverse.jpg"
+width="680"
+height="760"
+srcset="https://blog.flashgrey.xyz/p/my-first-rice/Look_What_They_Need_To_Mimic_A_Fraction_Of_Our_Power_Uno_Reverse_hu_c0d5724591c3f7e2.jpg 480w, https://blog.flashgrey.xyz/p/my-first-rice/Look_What_They_Need_To_Mimic_A_Fraction_Of_Our_Power_Uno_Reverse_hu_8b7946b3691c1242.jpg 1024w"
+loading="lazy"
+alt="linux_meme"
+class="gallery-image"
+data-flex-grow="89"
+data-flex-basis="214px"
+>&lt;/p>
+&lt;h2 id="things-i-tried">Things I tried
+&lt;/h2>&lt;p>I came across many things that looked promising.&lt;/p>
+&lt;ol>
+&lt;li>Windows&lt;/li>
+&lt;/ol>
+&lt;p>To my surprise, windows actually has a decent virtual desktop. Although it doesn&amp;rsquo;t support tiling windows inherently, you can create layouts using &lt;a class="link" href="https://learn.microsoft.com/en-us/windows/powertoys/" target="_blank" rel="noopener"
+>microsoft powertoys&lt;/a> but the switching between desktops isn&amp;rsquo;t the smoothest. There are third party softwares, that did do that job (VirtuaWin, DexPot) but they seemed old and I was skeptical of their performance, so never dived into them much.&lt;br>
+All in all it really does have really good potential in my eyes, I would be very happy if microsoft gives us more customizational features of such sorts, and added direct keybindings for working with virtual desktops.&lt;/p>
+&lt;ol start="2">
+&lt;li>&lt;a class="link" href="https://github.com/eythaann/Seelen-UI" target="_blank" rel="noopener"
+>Seelen UI&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;p>This was one of the first things that I found, I tried it out instantly. At first I was pretty amazed, it had a tiling window manager! Good UI, good customizational options, and open source.&lt;br>
+But after using it for a while, I found it very laggy and there were many major bugs. But the project has some really good features upcoming. I would like to contribute to it someday, it&amp;rsquo;s really well thought out.&lt;/p>
+&lt;ol start="3">
+&lt;li>&lt;a class="link" href="https://github.com/glzr-io/glazewm" target="_blank" rel="noopener"
+>GlazeWM&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;p>Glaze was just perfect for me. It was smooth, it was very much like i3 &lt;em>(infact I like glaze more than i3 at this point lol)&lt;/em>.&lt;br>
+It recommends to use Zebar with it. Which acts as a taskbar alternative, which is also highly configureable.&lt;br>
+Although glaze and zebar take around 1 min to start themselves up &lt;em>(ik its too much for some people)&lt;/em>. But it runs pretty smooth after that, I haven&amp;rsquo;t encountered any major bugs on it yet.&lt;/p>
+&lt;p>Linux users reading this:-&lt;br>
+&lt;img src="https://blog.flashgrey.xyz/p/my-first-rice/Look_What_They_Need_To_Mimic_A_Fraction_Of_Our_Power.png"
+width="660"
+height="737"
+srcset="https://blog.flashgrey.xyz/p/my-first-rice/Look_What_They_Need_To_Mimic_A_Fraction_Of_Our_Power_hu_a08268cae4c24a45.png 480w, https://blog.flashgrey.xyz/p/my-first-rice/Look_What_They_Need_To_Mimic_A_Fraction_Of_Our_Power_hu_68078ce74bd06f4.png 1024w"
+loading="lazy"
+alt="windows_meme"
+class="gallery-image"
+data-flex-grow="89"
+data-flex-basis="214px"
+>&lt;/p>
+&lt;h2 id="my-setup">My Setup
+&lt;/h2>&lt;p>&lt;img src="https://blog.flashgrey.xyz/p/my-first-rice/homepage.png"
+width="1920"
+height="1080"
+srcset="https://blog.flashgrey.xyz/p/my-first-rice/homepage_hu_391aad7b16f72442.png 480w, https://blog.flashgrey.xyz/p/my-first-rice/homepage_hu_c849fc92447ada14.png 1024w"
+loading="lazy"
+alt="Home"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+> &lt;img src="https://blog.flashgrey.xyz/p/my-first-rice/multipleTabs.png"
+width="1920"
+height="1080"
+srcset="https://blog.flashgrey.xyz/p/my-first-rice/multipleTabs_hu_5f9af590c51a12bd.png 480w, https://blog.flashgrey.xyz/p/my-first-rice/multipleTabs_hu_8ff473e9705f691d.png 1024w"
+loading="lazy"
+alt="Layout 1"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+> &lt;img src="https://blog.flashgrey.xyz/p/my-first-rice/vscodeDemo.png"
+width="1920"
+height="1080"
+srcset="https://blog.flashgrey.xyz/p/my-first-rice/vscodeDemo_hu_a59b56eba5a467d3.png 480w, https://blog.flashgrey.xyz/p/my-first-rice/vscodeDemo_hu_559345f494e2db71.png 1024w"
+loading="lazy"
+alt="VScode"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>OS: Windows 11&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Status Bar:&lt;/strong> &lt;a class="link" href="https://github.com/adriankarlen/neobrutal-zebar/" target="_blank" rel="noopener"
+>Neobrutal Zebar&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Window Manager:&lt;/strong> &lt;a class="link" href="https://github.com/glzr-io/glazewm" target="_blank" rel="noopener"
+>GlazeWM (default)&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Wallpaper:&lt;/strong> &lt;a class="link" href="https://imgur.com/a/f4S0VIr" target="_blank" rel="noopener"
+>Citlali from genshin&lt;/a> I tweaked the official wallpaper to match the purple theme&lt;/li>
+&lt;li>&lt;strong>Shell:&lt;/strong> &lt;a class="link" href="https://ohmyposh.dev/" target="_blank" rel="noopener"
+>Oh-My-Posh&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Theme:&lt;/strong> &lt;a class="link" href="https://ohmyposh.dev/docs/themes#velvet" target="_blank" rel="noopener"
+>Velvet&lt;/a>&lt;/li>
+&lt;li>&lt;strong>font:&lt;/strong> &lt;a class="link" href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraMono/Regular" target="_blank" rel="noopener"
+>FiraMonoNerd&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Windows Terminal Theme:&lt;/strong> [Sakura]
+&lt;ul>
+&lt;li>You can find the colour themes &lt;a class="link" href="https://windowsterminalthemes.dev/" target="_blank" rel="noopener"
+>here&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Obsidian:&lt;/strong> &lt;a class="link" href="https://publish.obsidian.md/hub/02&amp;#43;-&amp;#43;Community&amp;#43;Expansions/02.05&amp;#43;All&amp;#43;Community&amp;#43;Expansions/Themes/Catppuccin" target="_blank" rel="noopener"
+>Catpuccin&lt;/a>&lt;/li>
+&lt;li>&lt;strong>VS Code:&lt;/strong> &lt;a class="link" href="https://marketplace.visualstudio.com/items?itemName=iKenshu.rose-noctis" target="_blank" rel="noopener"
+>Rosé Noctis&lt;/a> It&amp;rsquo;s a merge between Rose pine and Catpuccin Noctis.&lt;/li>
+&lt;li>&lt;strong>Tools:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://learn.microsoft.com/en-us/windows/powertoys/" target="_blank" rel="noopener"
+>&lt;strong>Microsoft Powertoys:&lt;/strong>&lt;/a> Has some actually powerful toys&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="final-thoughts">Final Thoughts
+&lt;/h1>&lt;p>I have been enjoying my set up a lot. Haven&amp;rsquo;t faced any major issues. I can work more &lt;strong>productively and conveniently&lt;/strong> than ever.&lt;/p>
+&lt;p>Best reactions I got to my setup was:&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;That&amp;rsquo;s windows? No way&amp;hellip;&amp;rdquo;&lt;br>
+&amp;mdash; &lt;em>an arch user&lt;/em>&lt;/p>&lt;/blockquote>
+&lt;p>That&amp;rsquo;s when I knew I did it well.&lt;/p></description></item></channel></rss>
