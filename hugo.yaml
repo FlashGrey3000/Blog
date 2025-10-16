@@ -1,8 +1,8 @@
-baseurl: https://example.com/
+baseurl: https://blog.flashgrey.xyz
 languageCode: en-us
 theme: hugo-theme-stack
-title: Example Site
-copyright: Example Person
+title: "Blog | Flashgrey"
+copyright: Flashgrey
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -15,26 +15,11 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Flashgrey
         weight: 1
         params:
             sidebar:
-                subtitle: Example description
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        weight: 2
-        params:
-            sidebar:
-                subtitle: 演示说明
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
-        params:
-            sidebar:
-                subtitle: وصف تجريبي
+                subtitle: Cheers 🥂
 
 services:
     # Change it to your Disqus shortname before using
@@ -56,10 +41,10 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.webp # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2024
         customText:
 
     dateFormat:
@@ -67,12 +52,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🪬
+        subtitle: No excuses
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/stabbanami_pfp.png
 
     article:
         math: false
@@ -83,7 +68,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
@@ -217,15 +202,21 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/FlashGrey3000
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: discord
+          name: Discord
+          url: https://discord.com/users/757297929894756473
           params:
-              icon: brand-twitter
+              icon: brand-discord
+        
+        - identifier: rss
+          name: RSS
+          url: https://blog.flashgrey.xyz/index.xml
+          params:
+            icon: solid-rss
 
 related:
     includeNewer: true
