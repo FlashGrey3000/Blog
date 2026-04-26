@@ -122,13 +122,13 @@ They liked my solution and we moved on to talk about CS fundamentals.
 
 I had mentioned quite a few relevant courses in my resume, along with computer networks. It wasn't taught to us yet, but I had studied it on my own. I really like that subject.  
 
-Interviewer: *going through my resume* So what's your favourite topic?  
+Interviewer: (*going through my resume*) So what's your favourite topic?  
 Me: I-
 
 Interviewer: Lemme guess! It must be networks!  
 Me: *(happy and amazed)* Wow, haha yeah, it is!  
 
-He probably guessed it so because of my relevant cybersecurity background which was reflecting on my resume.  
+He probably guessed it so because of my relevant cybersecurity background which was clearly visible on my resume.  
 
 He asked a lot of questions. Again, I answered them honestly, and to the best of my knowledge.  
 
@@ -139,7 +139,7 @@ After which he says: "Okay, I guess we are done with the interview."
 
 ![*(WHAT???!!)*](anya_shock.png)  
 
-I look at the time, it has just been 40 minutes. I understood. I was not able to answer their quetions, they understood that I lacked depth. At the end, I was just someone who was having fun...  
+I look at the time, it has just been 40 minutes. I understood. I was not able to answer their questions, they understood that I lacked depth. At the end, I was just someone who was having fun...  
 
 I was sad. I felt desperate in that moment.  
 
@@ -157,7 +157,7 @@ I had no hopes. It was nearly 8pm. I was hungry. I went to the mess for dinner a
 ## The night
 I had no hopes, I told my friends at hostel. I clearly could not answer their questions when they kept digging deeper into the fundamentals. I had talked to others who gave the interview today, their overall assessment of their interviews ranged from good to great, except for a few.  
 
-I had no hopes, I lied down, on my bed with no anticipations whatsoever. Everyone had 75-90 minute interview, they must've been able to answer all their questions with such depth and their must have been so many interesting things to talk about.  
+I had no hopes, I lied down, on my bed with no anticipations whatsoever. Everyone had 75-90 minute interview, they must've been able to answer all their questions with such depth and there must have been so many interesting things to talk about.  
 
 My roommate shouts, "The message is here!". I get up from my bed. A hopeless hope still lingering within me, I ask, "So what is it?".  
 
@@ -196,7 +196,7 @@ Seems pretty straight forward.
 I attempt it, give a simple answer. Multiply all numbers, and create an array where you divide it the product by each `arr[index]` and store it then finally return the final array. I believe this is what is called as a **prefix sum** approach.  
 
 Interviewer: "What can go wrong here?"  
-Me: *(thinking... it seems fine...)* "Maybe negativ- no, that shouldn't be an issue... I think this will for every case sir."  
+Me: *(thinking... it seems fine...)* "Maybe negativ- no, that shouldn't be an issue... I think this will work for every case sir."  
 
 Interviewer: "No, it won't. What if there's a 0?"  
 Me: *(Ugh, how could I forget about 0s)* "Ohhh- yes, my bad."  
@@ -207,7 +207,7 @@ We maintain a count of 0s. If it exceeds 1, all elements in an array would be 0.
 
 The logic was accepted.  
 
-He then talked to me a lot about python and it's technical details. He asked me about decorators, multithreading in python, and so much more. The articles and random blog posts that I had read, the weird small experimentations that I had done, it all seemed to connect in some way or the other.  
+He then asked me a lot about python and it's technical details. He asked me about decorators, multithreading in python, and so much more. The articles and random blog posts that I had read, the weird small experimentations that I had done, it all seemed to connect in some way or the other.  
 
 He then proceeded to ask me about OS fundamentals in depth.  
 
