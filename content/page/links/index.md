@@ -15,8 +15,8 @@ links:
     image: https://cdn-icons-png.flaticon.com/512/174/174857.png
   - title: My Site
     description: Some goofy stuff, More about me.
-    website: https://flashgrey.xyz
-    image: https://www.flashgrey.xyz/resources/distortanami.png
+    website: https://flashgrey.dev
+    image: https://www.flashgrey.dev/resources/distortanami.png
 menu:
     main: 
         weight: -50
