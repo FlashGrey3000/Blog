@@ -54,10 +54,7 @@ params:
     sidebar:
         emoji: 🪬
         subtitle: No excuses
-        avatar:
-            enabled: true
-            local: true
-            src: "img/stabbanami_pfp.png"
+        avatar: img/stabbanami_pfp.png
 
     article:
         math: false
