@@ -214,7 +214,7 @@ menu:
         
         - identifier: rss
           name: RSS
-          url: https://blog.flashgrey.xyz/index.xml
+          url: https://blog.flashgrey.dev/index.xml
           params:
             icon: solid-rss
 
