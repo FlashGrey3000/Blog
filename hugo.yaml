@@ -57,7 +57,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/stabbanami_pfp.png
+            src: "img/stabbanami_pfp.png"
 
     article:
         math: false
