@@ -1,7 +1,7 @@
 ---
 title: About
 description: Flashgrey
-date: '2025-09-07'
+date: '2024-09-07'
 aliases:
   - about-me
 menu:
@@ -11,10 +11,12 @@ menu:
             icon: user
 ---
 
-I'm a creator who lives somewhere between the digital underground and real world crafting. My hands move from keyboard to needle to pencil without thinking—building websites that feel alive at 3am, coding tools to tame my scattered files, stitching patterns into fabric that shouldn't work but do. Every creation is me trying to make sense of the static in my head, turning chaos into something I can touch.
+I make things to make life a little easier, for me, for the people I care about. Code, mostly, but also art I'm not particularly good at. It doesn't matter. Whatever's wrong in my head feels a little better when something comes to life.  
 
-The screen glows and my mind races. Each day I'm debugging something new, learning another way to break through barriers I didn't even know existed. I sketch in notebook margins, code until sunrise, and find myself drawn to projects that live in the cracks between categories. My desk is a mess of half-finished experiments—all evidence that building and destroying are just different moves in the same game.
+Right now I'm building Umi ni Bin (a bottle in the sea): a place to write your feelings into a letter, seal it, and throw it into the ocean. Strangers fish them out. I don't know why this felt necessary to build, but it did.  
 
-> *"In this endless cycle of iteration and improvement, I am both the programmer and the program."*
+My desk is clean. A laptop, a diary, a few books. The diary has poems, haiku, feelings, todo lists. Everything in the same place because it's all the same thing to me.  
 
-The beauty isn't in getting it perfect. It's in those moments when something clicks into place, when the glitch becomes the feature, when human intuition meets digital possibility and creates something neither could manage alone. I'm here, signal cutting through noise, making tomorrow out of today's broken pieces.
+I'm big on open source. The internet raised me, Genshin, anime, forums, all of it. And I want to put something back.  
+
+> "In this endless cycle of iteration and improvement, I am both the programmer and the program."
